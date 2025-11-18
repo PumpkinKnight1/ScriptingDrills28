@@ -1,3 +1,6 @@
+-- Day 1: Strings and Loops Drill
+-- Completed: 2025-11-17
+
 --Write Variables
 local playerName = "faillord333"
 local toolName = "shovel"
